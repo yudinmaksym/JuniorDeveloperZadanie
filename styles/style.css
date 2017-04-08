@@ -1,0 +1,58 @@
+.table{
+    border:1px solid black;
+}
+.table tr th {
+    border:1px solid black;
+}
+.table tbody tr th {
+    border:1px solid black;
+}
+.ilosctowarow{
+    margin-top: 12px;
+    margin-right: 110px;
+}
+.ilosctowarow[disabled]{
+    background-color: #fff;
+    border: 1px solid #000;
+}
+#towarid{
+    margin-bottom: 5px;
+}
+#nosnikid{
+    margin-bottom: 5px;
+    width: 174px;
+    height: 25px;
+}
+.dokoszyka{
+    border: none;
+    background-color: #fff;
+    color:blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.nameonlable{
+    margin-right: 10px;
+    margin-bottom: 12px;
+}
+.modal-body{
+    overflow: hidden;
+}
+#mojkoszyk{
+    background-color: lightgrey;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-right: 5px;
+    border: none;
+    color:black;
+    background-image: none;
+    padding: 10px;
+    
+}
+#pcounter{
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.navbar-form{
+    width: 200px;
+    float: left;
+}

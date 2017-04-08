@@ -1,0 +1,13 @@
+DataBase:
+Sierpem I motem	10.10.2010	20.99	Jablonski Miroslaw	Level Trading	Audiobook	Superokazja,
+Skyfark2	20.11.2008	15.20	E.E.Doc Smith	Fabryka slow 	Ebook,
+Niemiertelny z Wegi	31.01.2012	19.20	Konrad Fiakowski	Sonia Draga	Audiobook,
+Zaniesmy im nasza wojne Skyfark w kosmosie	19.02.2013	25	Maciej Musialek	WAB	Ebook,
+Zyc I umrzec	22.12.2005	13.30	Maciej Musialek	Level Trading	Audiobook,
+Pizdmojdy	23.02.2001	15	Czesaw Biaczyski	Fabryka slow	Ebook,
+Bro ostateczna	15.06.2002	20	Czesaw Biaczyski	Sonia Draga	Audiobook,
+Stara Ziemia	12.04.2017	27	Marcin Wolski	WAB	Ebook,
+Kwadratura trojkata	05.04.2017	10	James Jameson	Level Trading	Audiobook;
+
+
+Nosniki:PenDrive,plyta CD,plyta DVD;
